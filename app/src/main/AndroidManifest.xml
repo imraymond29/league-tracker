@@ -21,11 +21,10 @@
         android:screenOrientation="portrait"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme">
+        android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
 
         <activity
             android:name="imraymond29.leaguetracker.MainActivity"
-            android:theme="@style/AppTheme"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:hardwareAccelerated="true">
 
